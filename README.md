@@ -1,4 +1,3 @@
-
 Expression Evaluator © 2000 Chris Dragan
 http://chrisdragan.org
 
@@ -28,3 +27,6 @@ Supported constants:
 pi, e, l2t, l2e, lg2, ln2
 
 The Expression Evaluator's design is based on DOS Navigator's calculator.
+
+###Screenshot
+![Screenshot](Screenshot.png)
