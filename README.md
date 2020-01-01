@@ -17,7 +17,7 @@ Supported number formats ( C-style, Pascal-style and Assembly-style ) :
 	- octal.
 
 Supported operators:
-+ - * / % ^ << >> & | ~ && || ^ ~ == = != <> > >= < <=
+\+ \- \* / % ^ << >> & \| ~ && \|\| ^ ~ == = \!= <> > >= < <=
 (note: ^ is power and not xor).
 
 Supported functions:
@@ -28,5 +28,5 @@ pi, e, l2t, l2e, lg2, ln2
 
 The Expression Evaluator's design is based on DOS Navigator's calculator.
 
-###Screenshot
+### Screenshot
 ![Screenshot](Screenshot.png)
