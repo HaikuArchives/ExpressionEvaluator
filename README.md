@@ -1,6 +1,10 @@
-Expression Evaluator © 2000 Chris Dragan
+####Expression Evaluator 
+
+© 2000 Chris Dragan
 
 http://chrisdragan.org
+
+![Screenshot](Screenshot.png)
 
 Usage:
 
@@ -21,7 +25,7 @@ Supported number formats ( C-style, Pascal-style and Assembly-style ) :
 
 Supported operators:
 
-\+ \- \* / % ^ << >> & \| ~ && \|\| ^ ~ == = \!= <> > >= < <=
+	\+ \- \* / % ^ << >> & \| ~ && \|\| ^ ~ == = \!= <> > >= < <=
 
 (note: ^ is power and not xor).
 
@@ -34,6 +38,3 @@ Supported constants:
 pi, e, l2t, l2e, lg2, ln2
 
 The Expression Evaluator's design is based on DOS Navigator's calculator.
-
-### Screenshot
-![Screenshot](Screenshot.png)
