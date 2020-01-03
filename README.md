@@ -2,11 +2,9 @@
 
 © 2000 Chris Dragan
 
-http://chrisdragan.org
-
 ![Screenshot](Screenshot.png)
 
-Usage:
+### Usage:
 
 Write an expression and see what happens.
 Example:
@@ -23,17 +21,17 @@ Supported number formats ( C-style, Pascal-style and Assembly-style ) :
 - binary,
 - octal.
 
-Supported operators:
+### Supported operators:
 
 	\+ \- \* / % ^ << >> & \| ~ && \|\| ^ ~ == = \!= <> > >= < <=
 
 (note: ^ is power and not xor).
 
-Supported functions:
+### Supported functions:
 
 abs, neg, sin, cos, tan (tg), ctan (ctg), asin (arcsin), acos (arccos), atan (arctan, atg, arctg), actan (arcctan, actg, arcctg), sqr, sqrt, exp, log (base 2), lg (base 10), ln (base e)
 
-Supported constants:
+### Supported constants:
 
 pi, e, l2t, l2e, lg2, ln2
 
