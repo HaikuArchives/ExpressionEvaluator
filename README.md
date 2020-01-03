@@ -29,10 +29,10 @@ Later you can either evaluate the expression or copy it to the clipboard.
 
 ### Supported functions:
 
-abs, neg, sin, cos, tan (tg), ctan (ctg), asin (arcsin), acos (arccos), atan (arctan, atg, arctg), actan (arcctan, actg, arcctg), sqr, sqrt, exp, log (base 2), lg (base 10), ln (base e)
+	abs, neg, sin, cos, tan (tg), ctan (ctg), asin (arcsin), acos (arccos), atan (arctan, atg, arctg), actan (arcctan, actg, arcctg), sqr, sqrt, exp, log (base 2), lg(base 10), ln (base e)
 
 ### Supported constants:
 
-pi, e, l2t, l2e, lg2, ln2
+	pi, e, l2t, l2e, lg2, ln2
 
 The Expression Evaluator's design is based on DOS Navigator's calculator.
