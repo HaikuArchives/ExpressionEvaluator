@@ -13,7 +13,7 @@ Example:
 
 Later you can either evaluate the expression or copy it to the clipboard.
 
-Supported number formats ( C-style, Pascal-style and Assembly-style ) :
+### Supported number formats ( C-style, Pascal-style and Assembly-style ) :
 - integer decimal,
 - floating-point decimal,
 - floating-point exponential,
